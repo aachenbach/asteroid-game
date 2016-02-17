@@ -1,0 +1,132 @@
+C:\Users\Alex\Desktop\WPF_Game01 151009e Improved Colored Skulls\WPF_Game01\bin\Release\WPFStartupDemo.exe.config
+C:\Users\Alex\Desktop\WPF_Game01 151009e Improved Colored Skulls\WPF_Game01\bin\Release\WPFStartupDemo.exe
+C:\Users\Alex\Desktop\WPF_Game01 151009e Improved Colored Skulls\WPF_Game01\bin\Release\WPFStartupDemo.pdb
+C:\Users\Alex\Desktop\WPF_Game01 151009e Improved Colored Skulls\WPF_Game01\obj\Release\WPF_Game01.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\WPF_Game01 151009e Improved Colored Skulls\WPF_Game01\obj\Release\MainWindow.baml
+C:\Users\Alex\Desktop\WPF_Game01 151009e Improved Colored Skulls\WPF_Game01\obj\Release\MainWindow.g.cs
+C:\Users\Alex\Desktop\WPF_Game01 151009e Improved Colored Skulls\WPF_Game01\obj\Release\App.g.cs
+C:\Users\Alex\Desktop\WPF_Game01 151009e Improved Colored Skulls\WPF_Game01\obj\Release\WPFStartupDemo_MarkupCompile.cache
+C:\Users\Alex\Desktop\WPF_Game01 151009e Improved Colored Skulls\WPF_Game01\obj\Release\WPFStartupDemo.g.resources
+C:\Users\Alex\Desktop\WPF_Game01 151009e Improved Colored Skulls\WPF_Game01\obj\Release\WPFStartupDemo.Properties.Resources.resources
+C:\Users\Alex\Desktop\WPF_Game01 151009e Improved Colored Skulls\WPF_Game01\obj\Release\WPF_Game01.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\WPF_Game01 151009e Improved Colored Skulls\WPF_Game01\obj\Release\WPFStartupDemo.exe
+C:\Users\Alex\Desktop\WPF_Game01 151009e Improved Colored Skulls\WPF_Game01\obj\Release\WPFStartupDemo.pdb
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.0\WPF_Game01\bin\Release\WPFStartupDemo.exe.config
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.0\WPF_Game01\obj\Release\WPFStartupDemo.exe
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.0\WPF_Game01\obj\Release\WPFStartupDemo.pdb
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.0\WPF_Game01\bin\Release\WPFStartupDemo.exe
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.0\WPF_Game01\bin\Release\WPFStartupDemo.pdb
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.0\WPF_Game01\obj\Release\WPF_Game01.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.0\WPF_Game01\obj\Release\MainWindow.baml
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.0\WPF_Game01\obj\Release\MainWindow.g.cs
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.0\WPF_Game01\obj\Release\App.g.cs
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.0\WPF_Game01\obj\Release\WPFStartupDemo_MarkupCompile.cache
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.0\WPF_Game01\obj\Release\WPFStartupDemo.g.resources
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.0\WPF_Game01\obj\Release\WPFStartupDemo.Properties.Resources.resources
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.0\WPF_Game01\obj\Release\WPF_Game01.csproj.GenerateResource.Cache
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.1\WPF_Game01\bin\Release\WPFStartupDemo.exe.config
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.1\WPF_Game01\obj\Release\WPFStartupDemo.exe
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.1\WPF_Game01\obj\Release\WPFStartupDemo.pdb
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.1\WPF_Game01\obj\Release\WPF_Game01.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.1\WPF_Game01\obj\Release\MainWindow.baml
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.1\WPF_Game01\obj\Release\MainWindow.g.cs
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.1\WPF_Game01\obj\Release\App.g.cs
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.1\WPF_Game01\obj\Release\WPFStartupDemo_MarkupCompile.cache
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.1\WPF_Game01\obj\Release\WPFStartupDemo.g.resources
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.1\WPF_Game01\obj\Release\WPFStartupDemo.Properties.Resources.resources
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.1\WPF_Game01\obj\Release\WPF_Game01.csproj.GenerateResource.Cache
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.1\WPF_Game01\bin\Release\WPFStartupDemo.exe
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.1\WPF_Game01\bin\Release\WPFStartupDemo.pdb
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.2 basic game working\WPF_Game01\bin\Release\WPFStartupDemo.exe.config
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.2 basic game working\WPF_Game01\obj\Release\WPFStartupDemo.exe
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.2 basic game working\WPF_Game01\obj\Release\WPFStartupDemo.pdb
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.2 basic game working\WPF_Game01\bin\Release\WPFStartupDemo.exe
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.2 basic game working\WPF_Game01\bin\Release\WPFStartupDemo.pdb
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.2 basic game working\WPF_Game01\obj\Release\WPF_Game01.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.2 basic game working\WPF_Game01\obj\Release\MainWindow.baml
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.2 basic game working\WPF_Game01\obj\Release\MainWindow.g.cs
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.2 basic game working\WPF_Game01\obj\Release\App.g.cs
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.2 basic game working\WPF_Game01\obj\Release\WPFStartupDemo_MarkupCompile.cache
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.2 basic game working\WPF_Game01\obj\Release\WPFStartupDemo.g.resources
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.2 basic game working\WPF_Game01\obj\Release\WPFStartupDemo.Properties.Resources.resources
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.2 basic game working\WPF_Game01\obj\Release\WPF_Game01.csproj.GenerateResource.Cache
+C:\Users\Alex Achenbach\Dropbox\HOMEWORK\Game v1.2 basic game working\WPF_Game01\bin\Release\WPFStartupDemo.exe.config
+C:\Users\Alex Achenbach\Dropbox\HOMEWORK\Game v1.2 basic game working\WPF_Game01\obj\Release\WPFStartupDemo.exe
+C:\Users\Alex Achenbach\Dropbox\HOMEWORK\Game v1.2 basic game working\WPF_Game01\obj\Release\WPFStartupDemo.pdb
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.3\WPF_Game01\bin\Release\WPFStartupDemo.exe.config
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.3\WPF_Game01\obj\Release\WPFStartupDemo.exe
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.3\WPF_Game01\obj\Release\WPFStartupDemo.pdb
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.3\WPF_Game01\bin\Release\WPFStartupDemo.exe
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.3\WPF_Game01\bin\Release\WPFStartupDemo.pdb
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.3\WPF_Game01\obj\Release\WPF_Game01.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.3\WPF_Game01\obj\Release\MainWindow.baml
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.3\WPF_Game01\obj\Release\MainWindow.g.cs
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.3\WPF_Game01\obj\Release\App.g.cs
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.3\WPF_Game01\obj\Release\WPFStartupDemo_MarkupCompile.cache
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.3\WPF_Game01\obj\Release\WPFStartupDemo.g.resources
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.3\WPF_Game01\obj\Release\WPFStartupDemo.Properties.Resources.resources
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.3\WPF_Game01\obj\Release\WPF_Game01.csproj.GenerateResource.Cache
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.4 time to clean up\WPF_Game01\bin\Release\WPFStartupDemo.exe.config
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.4 time to clean up\WPF_Game01\obj\Release\WPFStartupDemo.exe
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.4 time to clean up\WPF_Game01\obj\Release\WPFStartupDemo.pdb
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.4 time to clean up\WPF_Game01\obj\Release\WPF_Game01.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.4 time to clean up\WPF_Game01\obj\Release\MainWindow.baml
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.4 time to clean up\WPF_Game01\obj\Release\MainWindow.g.cs
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.4 time to clean up\WPF_Game01\obj\Release\App.g.cs
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.4 time to clean up\WPF_Game01\obj\Release\WPFStartupDemo_MarkupCompile.cache
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.4 time to clean up\WPF_Game01\obj\Release\WPFStartupDemo.g.resources
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.4 time to clean up\WPF_Game01\obj\Release\WPFStartupDemo.Properties.Resources.resources
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.4 time to clean up\WPF_Game01\obj\Release\WPF_Game01.csproj.GenerateResource.Cache
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.4 time to clean up\WPF_Game01\bin\Release\WPFStartupDemo.exe
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.4 time to clean up\WPF_Game01\bin\Release\WPFStartupDemo.pdb
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 shields working, need shield powerup\WPF_Game01\bin\Release\WPFStartupDemo.exe.config
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 shields working, need shield powerup\WPF_Game01\obj\Release\WPFStartupDemo.exe
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 shields working, need shield powerup\WPF_Game01\obj\Release\WPFStartupDemo.pdb
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 shields working, need shield powerup\WPF_Game01\bin\Release\WPFStartupDemo.exe
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 shields working, need shield powerup\WPF_Game01\bin\Release\WPFStartupDemo.pdb
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 shields working, need shield powerup\WPF_Game01\obj\Release\WPF_Game01.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 shields working, need shield powerup\WPF_Game01\obj\Release\MainWindow.baml
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 shields working, need shield powerup\WPF_Game01\obj\Release\MainWindow.g.cs
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 shields working, need shield powerup\WPF_Game01\obj\Release\App.g.cs
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 shields working, need shield powerup\WPF_Game01\obj\Release\WPFStartupDemo_MarkupCompile.cache
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 shields working, need shield powerup\WPF_Game01\obj\Release\WPFStartupDemo.g.resources
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 shields working, need shield powerup\WPF_Game01\obj\Release\WPFStartupDemo.Properties.Resources.resources
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 shields working, need shield powerup\WPF_Game01\obj\Release\WPF_Game01.csproj.GenerateResource.Cache
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 RELEASE\WPF_Game01\bin\Release\WPFStartupDemo.exe.config
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 RELEASE\WPF_Game01\obj\Release\WPFStartupDemo.exe
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 RELEASE\WPF_Game01\obj\Release\WPFStartupDemo.pdb
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 RELEASE\WPF_Game01\bin\Release\WPFStartupDemo.exe
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 RELEASE\WPF_Game01\bin\Release\WPFStartupDemo.pdb
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 RELEASE\WPF_Game01\obj\Release\WPF_Game01.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 RELEASE\WPF_Game01\obj\Release\MainWindow.baml
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 RELEASE\WPF_Game01\obj\Release\MainWindow.g.cs
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 RELEASE\WPF_Game01\obj\Release\App.g.cs
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 RELEASE\WPF_Game01\obj\Release\WPFStartupDemo_MarkupCompile.cache
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 RELEASE\WPF_Game01\obj\Release\WPFStartupDemo.g.resources
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 RELEASE\WPF_Game01\obj\Release\WPFStartupDemo.Properties.Resources.resources
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 RELEASE\WPF_Game01\obj\Release\WPF_Game01.csproj.GenerateResource.Cache
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 RELEASE - Copy\WPF_Game01\bin\Release\WPFStartupDemo.exe.config
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 RELEASE - Copy\WPF_Game01\obj\Release\WPFStartupDemo.exe
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 RELEASE - Copy\WPF_Game01\obj\Release\WPFStartupDemo.pdb
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 RELEASE - Copy\WPF_Game01\bin\Release\WPFStartupDemo.exe
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 RELEASE - Copy\WPF_Game01\bin\Release\WPFStartupDemo.pdb
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 RELEASE - Copy\WPF_Game01\obj\Release\WPF_Game01.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 RELEASE - Copy\WPF_Game01\obj\Release\MainWindow.baml
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 RELEASE - Copy\WPF_Game01\obj\Release\MainWindow.g.cs
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 RELEASE - Copy\WPF_Game01\obj\Release\App.g.cs
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 RELEASE - Copy\WPF_Game01\obj\Release\WPFStartupDemo_MarkupCompile.cache
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 RELEASE - Copy\WPF_Game01\obj\Release\WPFStartupDemo.g.resources
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 RELEASE - Copy\WPF_Game01\obj\Release\WPFStartupDemo.Properties.Resources.resources
+C:\Users\Alex\Dropbox\HOMEWORK\Game v1.5 RELEASE - Copy\WPF_Game01\obj\Release\WPF_Game01.csproj.GenerateResource.Cache
+C:\Users\Alex Achenbach\Dropbox\HOMEWORK\Game v1.5 RELEASE - Copy\WPF_Game01\bin\Release\WPFStartupDemo.exe.config
+C:\Users\Alex Achenbach\Dropbox\HOMEWORK\Game v1.5 RELEASE - Copy\WPF_Game01\obj\Release\WPFStartupDemo.exe
+C:\Users\Alex Achenbach\Dropbox\HOMEWORK\Game v1.5 RELEASE - Copy\WPF_Game01\obj\Release\WPFStartupDemo.pdb
+C:\Users\Alex Achenbach\Dropbox\College\GAD Game HW\Game v1.5 RELEASE - Copy\WPF_Game01\bin\Release\WPFStartupDemo.exe.config
+C:\Users\Alex Achenbach\Dropbox\College\GAD Game HW\Game v1.5 RELEASE - Copy\WPF_Game01\obj\Release\WPFStartupDemo.exe
+C:\Users\Alex Achenbach\Dropbox\College\GAD Game HW\Game v1.5 RELEASE - Copy\WPF_Game01\obj\Release\WPFStartupDemo.pdb
+C:\Users\Alex Achenbach\Dropbox\College\Fall 2015\GAD Game HW\Game v1.5 RELEASE - Copy\WPF_Game01\bin\Release\WPFStartupDemo.exe.config
+C:\Users\Alex Achenbach\Dropbox\College\Fall 2015\GAD Game HW\Game v1.5 RELEASE - Copy\WPF_Game01\obj\Release\WPFStartupDemo.exe
+C:\Users\Alex Achenbach\Dropbox\College\Fall 2015\GAD Game HW\Game v1.5 RELEASE - Copy\WPF_Game01\obj\Release\WPFStartupDemo.pdb
+C:\Users\Alex Achenbach\Desktop\code\GAD Game HW\Game v1.5 RELEASE - Copy\WPF_Game01\bin\Release\WPFStartupDemo.exe.config
+C:\Users\Alex Achenbach\Desktop\code\GAD Game HW\Game v1.5 RELEASE - Copy\WPF_Game01\obj\Release\WPFStartupDemo.exe
+C:\Users\Alex Achenbach\Desktop\code\GAD Game HW\Game v1.5 RELEASE - Copy\WPF_Game01\obj\Release\WPFStartupDemo.pdb
